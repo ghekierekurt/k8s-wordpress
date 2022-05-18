@@ -1,7 +1,7 @@
 # k8s-wordpress
 
-Prerequisites
+Prerequisites : 
 
-A Kubernetes cluster with kubectl
-Helm 3
+A Kubernetes cluster with kubectl + 
+Helm 3 + 
 Administrative privileges on the system
